@@ -26,7 +26,7 @@
 &nbsp &nbsp &nbsp 'PASSWORD' : '918',
 
 <h3>6. Настройка Django</h3>
-&nbsp &nbsp &nbsp Если вы работает в VS Code не забудте перейти от глобального интерпретатора к интерпретатору созданного окружения
+&nbsp &nbsp &nbsp Если вы работает в VS Code не забудте перейти от глобального интерпретатора к интерпретатору созданного окружения <br>
 &nbsp &nbsp &nbsp Вносим изменения &nbsp &nbsp python manage.py makemigrations main_app <br>
 &nbsp &nbsp &nbsp Создаем таблицы в базе данных &nbsp &nbsp python manage.py migrate <br>
 &nbsp &nbsp &nbsp Создайте пользователя с правами администратора &nbsp &nbsp python manage.py createsuperuser <br>
