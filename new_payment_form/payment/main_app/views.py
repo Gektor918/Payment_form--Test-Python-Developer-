@@ -11,7 +11,7 @@ stripe.api_key = 'sk_test_51M78snLo83VUKO2XyBmevW4WlKSTaoYOId5UPo5D9Tx6xbLB4GIxg
 class CreateCheckoutSessionView(TemplateView):
     # Session creation
     def dispatch(self, request, *args, **kwargs):
-        need_item = Item.objects.get(id=6)
+        need_item = Item.objects.get(name='Xiaomi – Mi TV 4A 32 (Телевизор)')
         resp_checkout_session = stripe.checkout.Session.create(success_url='http://127.0.0.1:8000/main_app/success',
                                                                 cancel_url='http://127.0.0.1:8000/main_app/cancel',
         line_items=[
