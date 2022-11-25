@@ -40,8 +40,8 @@
 &nbsp &nbsp &nbsp Нажмите сохранить <br>
 
 <h3>8. Прочее</h3>
-http://127.0.0.1:8000/main_app/product - адрес страницы с продуктом <br>
-http://127.0.0.1:8000/main_app/cancel - адрес страницы с отменой <br>
-http://127.0.0.1:8000/main_app/success - адрес страницы с успешной оплатой <br>
+&nbsp &nbsp &nbsp http://127.0.0.1:8000/main_app/product - адрес страницы с продуктом <br>
+&nbsp &nbsp &nbsp http://127.0.0.1:8000/main_app/cancel - адрес страницы с отменой <br>
+&nbsp &nbsp &nbsp http://127.0.0.1:8000/main_app/success - адрес страницы с успешной оплатой <br>
 
 
