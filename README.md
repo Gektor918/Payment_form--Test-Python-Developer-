@@ -4,17 +4,17 @@
 <h2>Инструкция по запуску:</h2>
 
 <h3>1. Клонируем репозиторий </h3>
-&nbsp &nbsp &nbsp Команда - git clone https://github.com/Gektor918/Payment_form--Test-Python-Developer-
+&nbsp &nbsp &nbsp git clone https://github.com/Gektor918/Payment_form--Test-Python-Developer-
 
 <h3>2. Создаем виртуальное окружение</h3>
-&nbsp &nbsp &nbsp Команда - python3 -m venv name_venv
+&nbsp &nbsp &nbsp python3 -m venv name_venv
 
 <h3>3. Запускаем виртуальное окружение</h3>
-&nbsp &nbsp &nbsp Команда - source name_venv/bin/activate <br>
+&nbsp &nbsp &nbsp source name_venv/bin/activate <br>
 
 <h3>4. Устанавливаем зависимости</h3>
-&nbsp &nbsp &nbsp Не забываем обновить pip Команда - pip install --upgrade pip
-&nbsp &nbsp &nbsp Команда - pip install -r requirements.txt
+&nbsp &nbsp &nbsp Не забываем обновить pip install --upgrade pip  <br>
+&nbsp &nbsp &nbsp pip install -r requirements.txt
 
 <h3>5. Скачивание и установка PostgresSQL 14 </h3>
 &nbsp &nbsp &nbsp Скачаиваем  PostgreSQL 14.6 Windows x86-64 <br>
